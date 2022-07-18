@@ -25,7 +25,7 @@ I love learning new things and creating projects that people can enjoy.
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" />
-      <img src="https://github.com/byronbutlerorg/Nozdormv/blob/main/resources/intellijidea.png?raw=true" />
+      <img src="https://github.com/byronbutlerorg/Nozdormv/blob/main/resources/intellijidea.png?raw=true" width="180" height="30" />
    </p>
    
 ## Stats   
