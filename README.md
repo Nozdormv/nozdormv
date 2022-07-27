@@ -18,7 +18,7 @@ Find out more about my business and projects: <a href="https://byronbutler.com">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" />
+      <https://user-images.githubusercontent.com/51226017/181260257-199e882c-3915-41de-b301-10426be7f8df.png />
    </p>  
    
 ## Tools
@@ -26,7 +26,8 @@ Find out more about my business and projects: <a href="https://byronbutler.com">
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" />
-      <img src="https://github.com/byronbutlerorg/Nozdormv/blob/main/resources/intellijidea.png?raw=true" width="180" height="30" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" />
    </p>
    
 ## Stats   
