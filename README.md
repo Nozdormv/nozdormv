@@ -20,7 +20,6 @@ Find out more about my business and projects: <a href="https://byronbutler.com">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" />
    </p>  
    
 ## Tools
@@ -30,6 +29,10 @@ Find out more about my business and projects: <a href="https://byronbutler.com">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/bash.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/docker.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" />
+      
    </p>
    
 ## Stats   
