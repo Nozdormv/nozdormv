@@ -47,7 +47,7 @@ I am a young fullstack dev & dev/ops from <img width="20" height="20" align="cen
 <thead>
 <tr>
 <th align="center"><a href="https://github.com/byronbutlerorg"><strong>Byron-Butler</strong></a></th>
-<th align="center"><a href="https://github.com/AlotikGaming"><strong>Alotik Gaming</strong></a></th>
+<th align="center"><a href="https://github.com/AlotikGames"><strong>Alotik Games</strong></a></th>
 </tr>
 </thead>
 <tbody>
