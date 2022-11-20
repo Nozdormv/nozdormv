@@ -57,7 +57,7 @@ I am a young fullstack dev & dev/ops from <img width="20" height="20" align="cen
 </tr>
 <tr>
 <td align="center"><a href="http://github.com/byronbutlerorg"><code>github.com/byronbutlerorg</code></a></td>
-<td align="center"><a href="http://github.com/AlotikGaming"><code>github.com/AlotikGaming</code></a></td>
+<td align="center"><a href="http://github.com/AlotikGames"><code>github.com/AlotikGames</code></a></td>
 </tr>
 </tbody>
 </table>
