@@ -79,4 +79,4 @@ I am a developer & systems from <img width="20" height="20" align="center" src="
 </tbody>
 </table>
 
-   
+   ![GitHub Views](https://komarev.com/ghpvc/?username=nozdormv)
