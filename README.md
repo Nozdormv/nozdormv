@@ -64,9 +64,19 @@ I am a developer & systems from <img width="20" height="20" align="center" src="
    
 ## Stats   
 
-   ![GitHub Views](https://komarev.com/ghpvc/?username=nozdormv)
+<table align="center">
+<thead>
+<tr>
+<th align="center"><a href="[https://github.com/byronbutlerorg](https://github.com/Nozdormv/github-readme-stats#top-languages-card)"><strong>Top languages</strong></a></th>
+<th align="center"><a href="[https://github.com/AlotikGames](https://github.com/Nozdormv/github-readme-stats#github-stats-card)"><strong>Stats</strong></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://avatars.githubusercontent.com/u/113119296?s=200&v=4"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nozdormv&layout=compact&langs_count=6"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://avatars.githubusercontent.com/u/113121168?s=200&v=4"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nozdormv&count_private=true&show_icons=true&hide=issues"></a></td>
+</tr>
+</tbody>
+</table>
 
-   <p align="center">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Nozdormv&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
-   </p>
    
