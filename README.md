@@ -5,7 +5,7 @@
 
 ### Hello there, I'm Nozdormv!👋
 
-Development & operations, entrepreneur from <img width="20" height="20" align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-spain_1f1ea-1f1f8.png">/<img width="20" height="20" align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-united-kingdom_1f1ec-1f1e7.png"> **Spain/UK**. Founder and CEO at <a href="https://github.com/byronbutlerorg">Byron-Butler</a> and <a href="https://github.com/AlotikGaming">Alotik Gaming</a>
+Development & operations, entrepreneur from <img width="20" height="20" align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-spain_1f1ea-1f1f8.png">/<img width="20" height="20" align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-united-kingdom_1f1ec-1f1e7.png"> **Spain/UK**. founder and CEO at <a href="https://github.com/byronbutlerorg">Byron-Butler</a> and <a href="https://github.com/AlotikGaming">Alotik Gaming</a>
 
 ## Skills
 
