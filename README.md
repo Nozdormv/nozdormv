@@ -37,7 +37,6 @@ Development & operations, entrepreneur from **Spain/UK**. founder and CEO at <a 
       <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png" height="42px" style="max-width: 100%;">
       <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png" height="42px" style="max-width: 100%;">
       <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png" height="42px" style="max-width: 100%;">
-      <img src="https://imgs.search.brave.com/Z5F5Pk7C9LvEvhP1QK9ZmJSKcXRl0H21zjKARFyfI6Y/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9wbmdp/bWFnZS5uZXQvd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMDYv/dW5pdHktbG9nby13/aGl0ZS1wbmctNS5w/bmc" height="42px" style="max-width: 100%; color: white;">
       <img src="https://imgs.search.brave.com/wTp5WbKx1j9-K33IoBkRiBzDz7Ebr3YVHWrwXoyXEtI/rs:fit:1125:1200:1/g:ce/aHR0cHM6Ly9hc2hl/c29mY3JlYXRpb24u/d2lraS9pbWFnZXMv/OC84My91bnJlYWwt/ZW5naW5lLWxvZ28u/cG5n" height="42px" style="max-width: 100%;">
    </p>
    
