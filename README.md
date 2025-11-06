@@ -5,7 +5,7 @@
 
 ### Hello there, I'm Nozdormv!👋
 
-Development & operations, entrepreneur from **Spain/UK**. founder and CEO at <a href="https://github.com/byronbutlerorg">Byron-Butler</a> and <a href="https://github.com/AlotikGaming">Alotik Gaming</a>
+Full Stack Developer & DevOps, entrepreneur from **Spain/UK**. founder and CEO at <a href="https://github.com/byronbutlerorg">Byron-Butler</a> and <a href="https://github.com/AlotikGaming">Alotik Gaming</a>
 
 ## Skills
 
