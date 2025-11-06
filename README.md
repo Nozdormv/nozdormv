@@ -1,5 +1,5 @@
 <p align='center'>
-<a href="https://twitter.com/nozdormv"><img height="64" src="https://github.com/user-attachments/assets/c137b75e-7a10-450a-bc53-5f49bcf23d0f"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/nozdormv"><img height="64" src="https://github.com/user-attachments/assets/40c422fb-9dc2-4e0d-a6ef-e1444eb7aa04"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/nozdormv"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
 </p>  
 
